@@ -16,6 +16,7 @@ public class Mycode {
     public static void main(String[] args) {
        System.out.print("HEllo world");
        System.out.print("chao ban");
+      System.out.print("chaooooooooooooooooooooooo");
     }
     
 }
